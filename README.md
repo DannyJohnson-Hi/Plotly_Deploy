@@ -1,4 +1,4 @@
-# Plotly_Deploy
+# Plotly_Project
 Interactive Data Visualization
 
 # About this project
